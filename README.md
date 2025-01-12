@@ -37,3 +37,8 @@ The testbench is used to verify the functionality of the `uart_re` module. It:
 ├── README.md            # Project Documentation
 
 
+## License
+This project is licensed under the CERN Open Hardware License Version 2 - Permissive. See the [LICENSE](LICENSE) file for details.
+
+## Contributions
+Contributions are welcome! If you find any issues or have suggestions for improvement, please create an issue or submit a pull request.
